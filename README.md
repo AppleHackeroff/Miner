@@ -1,0 +1,2 @@
+# Miner
+This is miner!
